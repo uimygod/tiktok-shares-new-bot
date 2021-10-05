@@ -11,4 +11,4 @@ Features:
 
 Api --> 150$ Source -->600$
 
-Contact me on telegram https://t.me/@AlexWardner
+Contact me on telegram https://telegram.me/AlexWardner
