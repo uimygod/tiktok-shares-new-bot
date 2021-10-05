@@ -1,6 +1,7 @@
 New real tiktok shares bot for sale.
 
-Features:-->Send unlimited shares for source.
+Features:
+-->Send unlimited shares for source.
 
 -->Send 10000 shares per hour for api.
 
