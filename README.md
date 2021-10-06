@@ -9,6 +9,8 @@ Features:
 
 -->Avoid shadow ban.
 
+-->faster than vipto.de
 
+*api and source available
 
 Contact me on telegram https://telegram.me/AlexWardner
